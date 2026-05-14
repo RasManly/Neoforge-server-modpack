@@ -76,6 +76,11 @@ hash = "422e9de11c4996c14a0a907cfe627428c7c52e9ee55c8da0193236038da02680"
 metafile = true
 
 [[files]]
+file = "mods/better-library.pw.toml"
+hash = "8314d22876d3edccef2f2780a27ef63ed35fe3f761f537eeb215795e5edc053b"
+metafile = true
+
+[[files]]
 file = "mods/borderless.pw.toml"
 hash = "513ba49ef3319ad94cc1e10af4314c774aaccf6b485beaecf79ecd2b3227d0a4"
 metafile = true
@@ -176,6 +181,11 @@ hash = "13481b387ddbf461b1da0ff317df17beafeda05291a586ee717bac23c86a0e74"
 metafile = true
 
 [[files]]
+file = "mods/create-better-motors.pw.toml"
+hash = "2055f19fb28c8127bf3f2be9f92f8b20297c27467e4654bd47e7c028c21959c1"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "25b8bdcc9e3aca5c16e79eb3e3deddf7e0c34e5a8038d77c535d948ecfa0661e"
 metafile = true
@@ -188,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "39d487bdf8979cc0b63a0d34ace0477e9aae5835e33fd9213aecca994025eca1"
+metafile = true
+
+[[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "2a14549d6eddbecbc636da718fde13097e494abedb4116704287854d3337fee6"
 metafile = true
 
 [[files]]
@@ -266,8 +281,18 @@ hash = "3a37f452485e16f15a044572da46c48891015ae86c78d8268cb77078e6ca4f4f"
 metafile = true
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "73ffac269e3ce480c7dd3a17e7f2f027e73727fcc375d4e1cef4c490cdd36686"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "b8761149eda05aa09fa90b3a8e0cf797faba43c08e42557cafcd55baa2c20cb3"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities-unofficial-port.pw.toml"
+hash = "442e5fb1ee058f9197538f5664feb895cf50653a393d390d752cc6449521ee0a"
 metafile = true
 
 [[files]]
@@ -418,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "d480787d9c86b5abe27284195ace63101ac1ccea7f2cb39649b4dcd172932e7e"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
 metafile = true
 
 [[files]]
