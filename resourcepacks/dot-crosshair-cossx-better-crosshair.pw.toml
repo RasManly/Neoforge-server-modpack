@@ -1,0 +1,13 @@
+name = "Dot Crosshair - CrossX Better Crosshair"
+filename = "best_crosshair-1.0.0-resourcepack-1.21.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c38ec1bb3432ebbf181fbc03654d6f67225322d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7841915
+project-id = 1499007

@@ -1,0 +1,12 @@
+name = "Create - Perfect World Post Production"
+version = "0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "effa766bc2b7b1fb0468ac85ee73859158619ae26857770c9cd6b980bf7383a5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

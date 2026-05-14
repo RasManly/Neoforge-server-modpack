@@ -1,0 +1,13 @@
+name = "Disable Double Tap to Sprint"
+filename = "no-double-tap-sprint-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a88b9738c4c8adc735330a805b6c7c9cb20a4ac9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6003601
+project-id = 1161957
