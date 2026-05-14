@@ -311,6 +311,11 @@ hash = "d5f0e5e66fa14c259c82e947d2b99a191f8bc9fd83e466f733bf9532771a3082"
 metafile = true
 
 [[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "2480ff0aff764d1785bd2580e88a479a848c71d623d3828ef39a5b222c47d053"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "541520814421d829976fbb2162e7a195b18e9d82ed3b3c8dc9c7fbc50b2cb491"
 metafile = true
