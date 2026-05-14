@@ -16,11 +16,6 @@ hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
 metafile = true
 
 [[files]]
-file = "fastpbr-shader.pw.toml"
-hash = "465b3262e3ac84642300770f2b267403793102f5f9fdc901c16d17e3efcc10f9"
-metafile = true
-
-[[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "9e414657b3a5e60c99e241c58c33cd1e6444780d29aa64c5f897ce1aaf24a00d"
 metafile = true
@@ -721,11 +716,6 @@ hash = "e998bb8cc7ab8864978917bd623a2bbcbe5154182eaf07cec824d62adda85153"
 metafile = true
 
 [[files]]
-file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "507f125d4b35b9aa6a7df56530c69dc47d47ffc135f3820ab4535c4c29242f57"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
 metafile = true
@@ -733,9 +723,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-moves.pw.toml"
 hash = "d22bff8a4ecb807d779784716ad315466778d0457b0d734eeeb6ff7f5a296a3f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "c3c618df6fa8e9f4b8de628c050cde77fec5fac7778a38ac94b28f42183e3a2a"
 metafile = true
