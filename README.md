@@ -13,6 +13,7 @@ Installasjon av modpack er ganske enkelt, det skal for det meste gå automatisk!
 Selvom det er satt opp slik at mods laste ned automatisk så er det slik at curseforge er dritt og at det ikke er alle mods som kan lastes ned automatisk. Man vil da få beskjed om dette når man starter modpacken, alt man trenger å gjøre i et slik tilfelle er;
 1. Trykk "open mods" 
 <img width="525" height="330" alt="image" src="https://github.com/user-attachments/assets/ccf0e137-beb1-4209-b00a-eb43675e80bc" />
+
 2. Dette vil åpne modsa som ikke kunne lastes ned i nettleseren din, alt du trenger å gjøre er å trykke "download" på hver mod som mangler
 <img width="875" height="625" alt="image" src="https://github.com/user-attachments/assets/dc1bbb21-bce1-43bc-9bf8-a27742f8e90d" />
 3. Deretter må du høyreklikke på modpacken inne i prism og velge "folder" deretter "minecraft" mappen også "mods" mappen
