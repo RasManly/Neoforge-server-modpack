@@ -501,6 +501,11 @@ hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "177af2a4d5072f2e055062f70a5ea780d821785ceae82d5378df3ba7cbc95665"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "dd4dd28e505ef8a6dae0569c92b03732302094e952068db010924fe945a27170"
 metafile = true
