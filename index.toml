@@ -71,6 +71,11 @@ hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
 
 [[files]]
+file = "mods/beltborne-lanterns.pw.toml"
+hash = "6f401abe7f7451ca6719873a1c5e9c95ea5c3c2e2b20267fca00ac408eb609cd"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "422e9de11c4996c14a0a907cfe627428c7c52e9ee55c8da0193236038da02680"
 metafile = true
