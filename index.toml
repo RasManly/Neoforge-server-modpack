@@ -251,6 +251,11 @@ hash = "ec65f48e74ac39be1d5a99e0bc74fd1013abd9efcf361e52043990ff5fba4c2b"
 metafile = true
 
 [[files]]
+file = "mods/create-more-drill-heads.pw.toml"
+hash = "3996c7ab1507f5f359fbfcfc8061bbdf9711ef3808514d1be912dc0e49aa4f74"
+metafile = true
+
+[[files]]
 file = "mods/create-ornithopter-glider.pw.toml"
 hash = "7f935bff68e7987e4734d0a9bacd44727c249415355b130ac5f445fd0ac0c0c9"
 metafile = true
