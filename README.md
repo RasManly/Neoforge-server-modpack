@@ -16,6 +16,7 @@ Selvom det er satt opp slik at mods laste ned automatisk så er det slik at curs
 
 2. Dette vil åpne modsa som ikke kunne lastes ned i nettleseren din, alt du trenger å gjøre er å trykke "download" på hver mod som mangler
 <img width="875" height="625" alt="image" src="https://github.com/user-attachments/assets/dc1bbb21-bce1-43bc-9bf8-a27742f8e90d" />
+
 3. Deretter må du høyreklikke på modpacken inne i prism og velge "folder" deretter "minecraft" mappen også "mods" mappen
 
 4. Finn modsa du lastet ned og legg de inn i mods mappen.
