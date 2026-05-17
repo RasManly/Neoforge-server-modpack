@@ -231,6 +231,11 @@ hash = "23c3ad78a97a4bec1129f515939ef1cfd9833a15948dbaede7cb678c35b2d028"
 metafile = true
 
 [[files]]
+file = "mods/create-easyfilling.pw.toml"
+hash = "47e21734cb8501df549f01b8a231e750c96e0fd2ea700db067f2b05416e02e40"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "822b81fa6ccc0102ea00e22f8b6df1e6180bc39405399d50b481198419909bad"
 metafile = true
