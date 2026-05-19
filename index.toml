@@ -145,11 +145,6 @@ hash = "7cd8bdf0ae142221b795aa3e0b35746c274d45784e1b6e811d1c15b22412b325"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "224908ec12dd13b1fce075317c112bb520d445595089a4e0b4865255e5e79f24"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -627,11 +622,6 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
