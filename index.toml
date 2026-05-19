@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "661ed6a491196bf259c4e270cf88b81d680f41d37039aa641f0935dc116058e2"
+
+[[files]]
 file = "bliss-shader.pw.toml"
 hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
 metafile = true
@@ -138,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/construction-wands-revived.pw.toml"
 hash = "7cd8bdf0ae142221b795aa3e0b35746c274d45784e1b6e811d1c15b22412b325"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "224908ec12dd13b1fce075317c112bb520d445595089a4e0b4865255e5e79f24"
 metafile = true
 
 [[files]]
@@ -618,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
