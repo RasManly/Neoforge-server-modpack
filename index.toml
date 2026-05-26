@@ -360,6 +360,11 @@ hash = "d5f0e5e66fa14c259c82e947d2b99a191f8bc9fd83e466f733bf9532771a3082"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "c233f9b1eeacd658394927dd886e96db37da27ca4cea752710510f2a0c72d236"
+metafile = true
+
+[[files]]
 file = "mods/easier-sleeping.pw.toml"
 hash = "2480ff0aff764d1785bd2580e88a479a848c71d623d3828ef39a5b222c47d053"
 metafile = true
