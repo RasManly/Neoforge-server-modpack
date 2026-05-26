@@ -145,11 +145,6 @@ hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
 
 [[files]]
-file = "mods/construction-wands-revived.pw.toml"
-hash = "7cd8bdf0ae142221b795aa3e0b35746c274d45784e1b6e811d1c15b22412b325"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -620,11 +615,6 @@ hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
 metafile = true
 
 [[files]]
-file = "mods/reforgedplay-mod.pw.toml"
-hash = "c3aba2e4668984b71d7258c18760bbdf367c4cac2e91fc980a58090c65458ebf"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
@@ -707,6 +697,16 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "374530929ddb21f7b4f0805ccee776f512484a3c3407b0e614c216a54a0a7e69"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "c66a21cc5dcab2ba241b47c42544cf0ca1bccdf8e6605c6d332837fb2dbe98ca"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "6a1122336ce393f47f345628f39ded4eaa36004c3dca1dc6059c1d5e9d2b0c7a"
 metafile = true
 
 [[files]]
