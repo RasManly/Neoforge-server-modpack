@@ -195,6 +195,11 @@ hash = "2055f19fb28c8127bf3f2be9f92f8b20297c27467e4654bd47e7c028c21959c1"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "c35bc6385cac0836f60c3d009ba67ec1aefbb90fbd7782133f3ecf1e38f07dad"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "25b8bdcc9e3aca5c16e79eb3e3deddf7e0c34e5a8038d77c535d948ecfa0661e"
 metafile = true
@@ -207,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "39d487bdf8979cc0b63a0d34ace0477e9aae5835e33fd9213aecca994025eca1"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "e3304daa476fa3ac90a018720d190fd366cf6e20e9ce33b5aa8d16b40eaf3446"
 metafile = true
 
 [[files]]
